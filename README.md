@@ -1,5 +1,3 @@
-# CrowdShield
-
 # 🛡️ CrowdShield  
 **Predictive Crowd Analytics to Aid Chemical Incident Response Planning (HTX HacX25 – CS11)**  
 
